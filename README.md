@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jbirkland
-- 👀 I’m interested in ... learning and creating new ideas.
-- 🌱 I’m currently learning ... about coding.
-- 💞️ I’m looking to collaborate on ... coding strategies.
-- 📫 How to reach me ... through linkedin.
+- 👋 Hi, I’m @Justin Birkland
+- 👀 I’m interested in ... creating great things through web development.
+- 🌱 I’m currently learning ... about JavaScript, React, MySQL. . . 
+- 💞️ I’m looking to collaborate on ... coding methods and best practice.
+- 📫 How to reach me ... linkedin.com/in/justin-birkland-7408451a1
 
 <!---
 jbirkland/jbirkland is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
