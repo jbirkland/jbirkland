@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Justin Birkland
+- 👋 Hi, I’m Justin Birkland.
 - 👀 I’m interested in ... creating great things through web development.
 - 🌱 I’m currently learning ... about JavaScript, React, MySQL. . . 
 - 💞️ I’m looking to collaborate on ... coding methods and best practice.
